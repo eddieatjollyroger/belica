@@ -1,4 +1,5 @@
 # belica
-boas
 
-Playable at https://eddieatjollyroger.github.io/belica
+Hellooo
+
+Playable at https://belica.joaopacheco.me
